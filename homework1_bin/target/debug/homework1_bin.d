@@ -1,0 +1,1 @@
+D:\4ire\ RUST\ course\Homework1\homework1_bin\target\debug\homework1_bin.exe: D:\4ire\ RUST\ course\Homework1\homework1_bin\src\main.rs D:\4ire\ RUST\ course\Homework1\homework1_lib\src\area.rs D:\4ire\ RUST\ course\Homework1\homework1_lib\src\lib.rs D:\4ire\ RUST\ course\Homework1\homework1_lib\src\volume.rs
